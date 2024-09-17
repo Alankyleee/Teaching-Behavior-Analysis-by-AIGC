@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Research on Intelligent Collection and Application of Classroom Teaching Behaviors Supported by AIGC**
 
 
@@ -19,3 +20,11 @@ Teaching behavior analysis has significant implications for teaching diagnosis a
 **对比 AIGC 与其他 AI 模型自动分类的结果分析了 AIGC 用于自动采集的优缺点，针对大模型存在输出幻觉的缺**
 
 **陷提出了“多机协同，人在回路”的风险规避应用路径，以期提高课堂行为采集技术的个性化与智能化水平。**
+=======
+# AIGC支持下的课堂教学行为智能采集与应用研究
+
+
+# Teaching-Behavior-Analysis-by-AIGC
+## Research on Intelligent Collection and Application of Classroom Teaching Behaviors Supported by AIGC
+This project is using AIGC to assisit to code the behavior of teaching behaviors.
+>>>>>>> 6784845e99320b0a749d875665bac5c0717d12df
