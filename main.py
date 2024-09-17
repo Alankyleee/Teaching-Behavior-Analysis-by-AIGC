@@ -15,8 +15,8 @@ client = OpenAI(
 
 
 
-# 获取从GPT那边服务器返回的结果
-def get_answer(prompt, model="gpt-4"):
+# 获取从服务器返回的结果
+def get_answer(prompt, model="xxx"):
     messages = [{"role": "user", "content": prompt}]
     response = client.chat.completions.create(
         model=model,
